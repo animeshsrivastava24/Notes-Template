@@ -9,11 +9,11 @@
 The Repository is dedicated for providing user the guidelines on how to create notes using various templates
 
 ## Content
-1. Learn Markdown 
-2. Instruction on how to use the template
-3. Sending Pull Request
+1. [Learn Markdown](https://github.com/animeshsrivastava24/Notes-Template/blob/master/README.md#learn-markdown-syntax-on-2-minutes) 
+2. [Instruction on how to use the template](https://github.com/animeshsrivastava24/Notes-Template/blob/master/README.md#instruction-on-how-to-use-the-template)
+3. [Sending Pull Request](https://github.com/animeshsrivastava24/Notes-Template/blob/master/README.md#sending-pull-request)
 
-### **Learn Markdown Syntax on 2 Minutes**
+### **Learn Markdown Syntax**
 Click on the link provided to get the Markdown Cheatsheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### **Instruction on how to use the template**
