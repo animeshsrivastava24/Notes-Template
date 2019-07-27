@@ -4,7 +4,6 @@
 
 <h3 align="center">Notes Template</h3>
 
-<h3 align="center">Made with :heart: by Animesh Srivastava</h3>
 
 The Repository is dedicated for providing user the guidelines on how to create notes using various templates. Please **Fork** the repository and use it.
 
@@ -53,3 +52,6 @@ e) Replace the text to add your notes
 ### Sending Pull Request
 
 https://help.github.com/en/articles/creating-a-pull-request
+
+
+<h3 align="center">Made with :heart: by Animesh Srivastava</h3>
