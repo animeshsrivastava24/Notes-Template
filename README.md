@@ -6,7 +6,7 @@
 
 <h3 align="center">Made with :heart: by Animesh Srivastava</h3>
 
-The Repository is dedicated for providing user the guidelines on how to create notes using various templates
+The Repository is dedicated for providing user the guidelines on how to create notes using various templates. Please **Fork** the repository and use it.
 
 ## Content
 1. [Learn Markdown](https://github.com/animeshsrivastava24/Notes-Template/blob/master/README.md#learn-markdown-syntax-on-2-minutes) 
