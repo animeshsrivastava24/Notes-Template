@@ -53,5 +53,6 @@ e) Replace the text to add your notes
 
 https://help.github.com/en/articles/creating-a-pull-request
 
+f) Don't forget to save the file with the name of Note followed by an extension **.md**
 
 <h3 align="center">Made with :heart: by Animesh Srivastava</h3>
