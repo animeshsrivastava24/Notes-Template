@@ -49,10 +49,11 @@ e) Replace the text to add your notes
 
 ![Edit Image](https://github.com/animeshsrivastava24/Notes-Template/blob/master/Instruction%20Guide/Notes.JPG "Date")
 
+f) Don't forget to save the file with the name of your choice followed by an extension **.md**
+
 ### Sending Pull Request
 
 https://help.github.com/en/articles/creating-a-pull-request
 
-f) Don't forget to save the file with the name of Note followed by an extension **.md**
 
 <h3 align="center">Made with :heart: by Animesh Srivastava</h3>
