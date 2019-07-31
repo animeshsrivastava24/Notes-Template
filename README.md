@@ -5,7 +5,8 @@
 <h3 align="center">Notes Template</h3>
 
 
-The Repository is dedicated for providing user the guidelines on how to create notes using various templates. Please **Fork** the repository and use it.
+The Repository is dedicated for providing user the guidelines on how to create notes using various templates. Please **Fork** the repository and use it. Feel **Free** to add more templates of your own choice.
+
 
 ## Content
 1. [Learn Markdown](https://github.com/animeshsrivastava24/Notes-Template/blob/master/README.md#learn-markdown-syntax-on-2-minutes) 
